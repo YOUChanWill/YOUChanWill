@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/code-Java-black">
   </a>
   <a href="https://github.com/YOUChanWill">
-    <img src="https://img.shields.io/badge/code-C-black">
+    <img src="https://img.shields.io/badge/code-C++-black">
   </a>
   <a href="https://github.com/YOUChanWills">
     <img src="https://img.shields.io/badge/occupation-critic-black">
